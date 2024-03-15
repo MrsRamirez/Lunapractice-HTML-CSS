@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color : #dba24d;
+}
+h1{
+background-color : #d1d959;
+text-align : center;
+color : #e55d5d;
+}
+/* class*/
+.practice{
+  color : blue;
+  background-color :  #EADDCA;
+}
+/* id */
+#logo{
+	/* property : Value ; */
+	border: 2px solid black;
+	width: 50px;
+}
+
+#mainH{
+	color: #6d99c0;
+	font-family: fantasy;
+}
